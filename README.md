@@ -1,3 +1,3 @@
 # csc
 Spring boot and Thymeleaf project
-2023
+2022/2023
